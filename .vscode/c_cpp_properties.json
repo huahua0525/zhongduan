@@ -83,7 +83,8 @@
             "intelliSenseMode": "windows-gcc-x64",
             "cStandard": "${default}",
             "cppStandard": "${default}",
-            "compilerPath": "D:/mingw64/bin/gcc.exe"
+            "compilerPath": "D:/mingw64/bin/gcc.exe",
+            "compileCommands": "${workspaceFolder}/build/Target 1/compile_commands.json"
         },
         {
             "name": "Target 1",
