@@ -51,3 +51,5 @@ int main(void)
 		OLED_ShowNum(1,1,witchr,4,1);
 	}
 }
+
+//ididio
